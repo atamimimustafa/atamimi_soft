@@ -199,9 +199,12 @@
     color: #666;
     width: 400px;
     margin: auto;
+    
 }
-@media (max-width: 767px) and (min-width: 421px) {
-    .landing article p { width: 50%; }
+@media (max-width: 420px) {
+    .landing article p {
+        width: fit-content;
+    }
 }
 .landing .image {
     width: 55%;
