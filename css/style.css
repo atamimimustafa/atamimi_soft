@@ -1229,7 +1229,7 @@
 }
 .pricing_plan .plans .box a {
     display: block;
-    width: fit-content;
+    width: 140px;
     color: var(--main-color);
     padding: 15px;
     margin: 30px auto;
