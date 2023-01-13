@@ -98,7 +98,7 @@
 }
 /* Small */
 @media (min-width: 768px) {
-    .container {  width: 750px; }
+    .container {  width: 768; }
   }
 /* Medium */
 @media (min-width: 992px) {
